@@ -6,4 +6,4 @@
 
 システム名：観光地情報システム
 
-URL：https://github.com/kashio2201406/final
+URL：https://aso2201406.penne.jp/final/top.php
